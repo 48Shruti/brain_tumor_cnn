@@ -186,12 +186,8 @@ Brain-Tumor-Detection/
 │
 ├── README.md
 ├── Brain_Tumor_Detection.ipynb
-├── brain_tumor_cnn_model.keras
-├── requirements.txt
-│
-└── images/
-    ├── accuracy_loss.png
-    └── confusion_matrix.png
+├── accuracy_loss.png
+└── confusion_matrix.png
 ```
 
 ---
@@ -201,20 +197,12 @@ Brain-Tumor-Detection/
 **Step 1:** Clone the repository.
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/48Shruti/brain_tumor_cnn
 ```
 
-**Step 2:** Install the required libraries.
+**Step 2:** Open the Jupyter Notebook in Google Colab or Jupyter Notebook.
 
-```bash
-pip install -r requirements.txt
-```
-
-**Step 3:** Open the Jupyter Notebook in Google Colab or Jupyter Notebook.
-
-**Step 4:** Download the Kaggle dataset and configure the dataset paths.
-
-**Step 5:** Execute all notebook cells to train and evaluate the CNN model.
+**Step 3:** Execute all notebook cells to train and evaluate the CNN model.
 
 ---
 
